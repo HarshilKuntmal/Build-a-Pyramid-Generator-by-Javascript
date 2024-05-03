@@ -2,15 +2,6 @@
 
 This project generates a pyramid pattern using JavaScript and displays it on an HTML page when a button is clicked.
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Generates a pyramid pattern using JavaScript.
